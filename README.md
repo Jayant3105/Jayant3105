@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>I am a Passionate Frontend Developer from India</h3>
+<p>🌱 I'm currently learning Data Structure & Algorithms in Java.</p>
+<p>💬 Ask me about JavaScript, Bootstrap, React or anything here.</p>
+<p>⚡Fun fact: I enjoy styling websites using core CSS.</p>
+### 📫 Let's Connect

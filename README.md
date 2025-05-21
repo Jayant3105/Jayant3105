@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <p>🌱 I'm currently learning Data Structure & Algorithms in Java.</p>
 <p>💬 Ask me about JavaScript, Bootstrap, React or anything here.</p>
 <p>⚡Fun fact: I enjoy styling websites using core CSS.</p>
-### 📫 Let's Connect
+
+<h3>📫 Let's Connect</h3>
